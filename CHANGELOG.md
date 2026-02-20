@@ -1,5 +1,18 @@
 # Changelog
 
+## [26.9.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.8.0...v26.9.0) (2026-02-20)
+
+
+### Features
+
+* **add:** ADCBZI01 ([#11560](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11560)) ([6cf5b5e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/6cf5b5ee8f7a4c7873f0aa520b9102c39aef5380))
+
+
+### Bug Fixes
+
+* **ignore:** do not use mistake-prone name for catch var ([#11561](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11561)) ([6af993e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/6af993e509478e9f0c7f6aa1459c2cab2166e6da))
+* Senoro: improve expose descriptions ([#11562](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11562)) ([987e4b5](https://github.com/Koenkk/zigbee-herdsman-converters/commit/987e4b560f4faa4581d9c042c0117328d65f9874))
+
 ## [26.8.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.7.0...v26.8.0) (2026-02-19)
 
 
